@@ -16,3 +16,22 @@
     "team": "Yellow"
   }  
 ]
+
+[
+  {
+    "fullname": "Alexandre Flament",
+    "twitter": "",
+    "github": "https://github.com/Diezeal",
+    "linkedin_url": "https://www.linkedin.com/in/alexandre-flament-203164114/",
+    "email_gravatar": "alexandre.flament05@gmail.com",
+    "team": "Red"
+  },
+  {
+    "fullname": "Thomas Vanwelden",
+    "twitter": "",
+    "github": "https://github.com/Totoyor",
+    "linkedin_url": "https://www.linkedin.com/in/thomasvanwelden/",
+    "email_gravatar": "vanweldenthomas@live.fr",
+    "team": "Red"
+  }  
+]
