@@ -15,4 +15,23 @@
     "email_gravatar": "denis.reisdeamoreira@gmail.com",
     "team": "Pink"
   }
+  {
+    "fullname": "Alexandre Flament",
+    "twitter": "",
+    "github": "Diezeal",
+    "linkedin_url": "https://www.linkedin.com/in/alexandre-flament-203164114/",
+    "email_gravatar": "alexandre.flament05@gmail.com",
+    "team": "Red"
+  },
+  {
+    "fullname": "Thomas Vanwelden",
+    "twitter": "",
+    "github": "Totoyor",
+    "linkedin_url": "https://www.linkedin.com/in/denis-reis-99a715b1/",
+    "email_gravatar": "vanweldenthomas@glive.fr",
+    "team": "Red"
+  }
+  
+  
 ]
+
